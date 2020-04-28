@@ -22,7 +22,7 @@
 
 ## :cold_sweat: Desafios encontrados:
 
-- Utilização de MailComposer, Deep Linking e paginção com scroll infinito.
+- Utilização de MailComposer, Deep Linking e paginação com scroll infinito.
 
 ## :computer: Tecnologias utilizadas:
 
