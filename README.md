@@ -27,7 +27,7 @@
 ## :computer: Tecnologias utilizadas:
 
 - ⚛️ ReacJS na web.
-- :iphone: React Native no mobile.
+- :iphone: React Native - Expo no mobile.
 - ☕️ Node.js no Back-End.
 
 ## :dvd: Instalação:
